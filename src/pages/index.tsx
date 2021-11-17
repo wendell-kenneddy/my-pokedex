@@ -20,13 +20,26 @@ const Home = ({ pokemons }: HomeProps) => {
         <meta name="author" content="Wendell Kenneddy" />
         <meta name="creator" content="Wendell Kenneddy" />
         <meta name="description" content="Uma Pokedex intuitiva." />
+        <meta property="og:type" content="website" />
         <meta property="og:title" content="myPokedex" />
         <meta property="og:description" content="Uma Pokedex intuitiva." />
         <meta property="og:site_name" content="myPokedex" />
+        <meta
+          property="og:image"
+          content="https://pokedexwk.vercel.app/apple-touch-icon.png"
+        />
+        <meta property="og:url" content="https://pokedexwk.vercel.app/" />
         <meta property="og:locale" content="pt_BR" />
+        <meta property="twitter:card" content="summary" />
         <meta property="twitter:title" content="Uma Pokedex intuitiva." />
         <meta property="twitter:description" content="Uma Pokedex intuitiva." />
+        <meta property="twitter:url" content="https://pokedexwk.vercel.app/" />
+        <meta
+          property="twitter:image"
+          content="https://pokedexwk.vercel.app/logo192.png"
+        />
         <title>myPokedex</title>
+        <link rel="canonical" href="https://pokedexwk.vercel.app/" />
       </Head>
 
       <Container as="main" size="sm" marginBottom="4">
