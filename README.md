@@ -1,7 +1,7 @@
 # myPokedex
 
 ![Author](https://img.shields.io/badge/author-Wendell%20Kenneddy-brightgreen)
-![Used Technologies](https://img.shields.io/badge/techs-NextJS,%20Typescript%20and%ChakraUI-brightgreen)
+![Used Technologies](https://img.shields.io/badge/techs-NextJS,%20Typescript%20and%20ChakraUI-brightgreen)
 ![Status](https://img.shields.io/badge/status-Concluded-brightgreen)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
