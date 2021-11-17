@@ -16,6 +16,14 @@ class MyDocument extends Document {
           <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
           <link rel="manifest" href="/manifest.json" />
           <meta name="theme-color" content="#F56565" />
+          <meta name="application-name" content="myPokedex" />
+          <meta name="apple-mobile-web-app-capable" content="yes" />
+          <meta
+            name="apple-mobile-web-app-status-bar-style"
+            content="default"
+          />
+          <meta name="apple-mobile-web-app-title" content="PWA App" />
+          <meta name="mobile-web-app-capable" content="yes" />
         </Head>
         <body>
           <ColorModeScript initialColorMode="dark" />
