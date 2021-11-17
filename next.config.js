@@ -8,7 +8,6 @@ module.exports = withPWA({
     domains: ['fontmeme.com', 'raw.githubusercontent.com']
   },
   pwa: {
-    dest: 'public',
-    skipWaiting: true
+    dest: 'public'
   }
 });
