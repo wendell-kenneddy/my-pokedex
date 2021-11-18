@@ -30,6 +30,7 @@ To develop this app, I used these technologies:
 
 - Responsivity
 - Next's SSG and Incremental Static Regeneration, to serve dynamic pokemon pages on the fly
+- PWA features such as offline support
 
 ---
 
