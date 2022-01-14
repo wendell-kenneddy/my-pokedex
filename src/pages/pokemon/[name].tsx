@@ -149,7 +149,7 @@ export async function getStaticProps(context: GetStaticPropsContext) {
       props: {
         pokemon
       },
-      revalidate: 30
+      revalidate: 60 * 60 * 8 // 8 hours
     };
   } catch (error) {
     return {
